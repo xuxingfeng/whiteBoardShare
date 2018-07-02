@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="whiteBoardShare:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="whiteBoardShare.war">
+      <element id="artifact" artifact-name="whiteBoardShare:war exploded" />
+    </root>
+  </artifact>
+</component>
